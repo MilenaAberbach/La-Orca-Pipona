@@ -1,5 +1,3 @@
-# La-Orca-Pipona
-
 # La Orca Pipona
 
 Este repositorio contiene las distintas versiones del código desarrollado para el Proyecto Final Integrador de las materias Programación sobre Redes y Desarrollo de Sistemas.
